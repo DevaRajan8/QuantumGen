@@ -3,8 +3,8 @@ A machine learning-powered system that automatically generates quantum circuits 
 
 # Features
 
-# AI-Powered Circuit Generation: Generate quantum circuits from natural language prompts
-# Multiple Circuit Types: Support for Bell states, GHZ states, QFT, VQE, QAOA, quantum algorithms
+#### AI-Powered Circuit Generation: Generate quantum circuits from natural language prompts
+#### Multiple Circuit Types: Support for Bell states, GHZ states, QFT, VQE, QAOA, quantum algorithms
 # Visual Circuit Diagrams: Automatic generation of PNG circuit visualizations
 # Web Interface: Django implementation for easy maintainance
 # JSON Dataset: Structured dataset of quantum circuits with metadata

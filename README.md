@@ -1,5 +1,3 @@
-# QuantumGen
-
 # Quantum Circuit Generator
 A machine learning-powered system that automatically generates quantum circuits from natural language descriptions using a fine-tuned T5 transformer model and IBM's Qiskit framework.
 
